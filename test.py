@@ -1,5 +1,5 @@
-def function(a,b,c):
-    print(a)
+def function(b,c):
+    print(7)
     print(b)
     print(c)
 
